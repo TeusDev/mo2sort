@@ -32,7 +32,7 @@ This Python script helps you sort the `modlist.txt` file for Mod Organizer 2 pro
 
 - The sorting is in descending order for both the number inside the phrase and the length of the line.
 
-- The script tries to find the `modlist.txt` file in the same directory as the script. Ensure that you have both the script and the `modlist.txt` file in the correct directory before running the script.
+- The script tries to find the `input.txt` file in the same directory as the script. Ensure that you have both the script and the file in the correct directory before running the script.
 
 - Before using the script, make sure to have a backup of your original `modlist.txt` file in case anything goes wrong during the sorting process.
 
